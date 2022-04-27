@@ -32,7 +32,7 @@
         "@types/expect": "^1.20.3",
         "@types/jest": "^23.3.10",
         "@types/karma": "^1.7.5",
-        "grunt": "^1.0.3",
+        "grunt": "^1.5.2",
         "jasmine-node": "^2.0.0-beta4",
         "jest": "^23.6.0",
         "tslint": "^5.11.0"
